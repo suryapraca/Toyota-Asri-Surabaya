@@ -605,6 +605,7 @@ img {
 }
 .offer__description{
   margin-bottom: 3rem;
+  color: white;
 }
 .offer__img{
   position: absolute;
